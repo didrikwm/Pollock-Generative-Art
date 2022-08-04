@@ -16,7 +16,7 @@ The script is written using [Processing in Python mode](https://py.processing.or
 
 After download, simply open the script in the Processing editor and click the "Run" button. The generated artwork will open in a new window. 
 
-To save the artwork to a file, make sure the artwork window is focused and press a number key 1-9. The artwork will be saved in the sketch's folder with the number included in the filename. This folder can be quickly accessed by clicking "Show Sketch Folder" from the "Sketch" menu in the editor. 
+To save the artwork as an image file, make sure the artwork window is focused and press a number key 1-9. The artwork will be saved in the sketch folder with this number included in the filename. This folder can be quickly accessed by clicking "Show Sketch Folder" from the "Sketch" menu in the editor. 
 
 # Example output
 ![Example](https://i.ibb.co/qCj85fC/artwork1.jpg "Example")
