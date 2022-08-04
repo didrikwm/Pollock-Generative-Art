@@ -1,7 +1,7 @@
 # Pollock-Generative-Art
 Make generative art inspired by Jackson Pollock. The script creates a completely unique artwork every time, but with recognizable shapes and colors, using a combination of set rules and random parameters.
 
-Still a WIP.
+Work in progress.
 
 <p float="left">
   <img src="https://www.moma.org/media/W1siZiIsIjQ5MDIzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=0021772bddb70174" width="200" />
